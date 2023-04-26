@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/springboot_test_wine.iml" filepath="$PROJECT_DIR$/.idea/springboot_test_wine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WineRepository.iml" filepath="$PROJECT_DIR$/.idea/WineRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_test_wine/springboot_test_wine.iml" filepath="$PROJECT_DIR$/springboot_test_wine/springboot_test_wine.iml" />
     </modules>
   </component>
 </project>

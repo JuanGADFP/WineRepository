@@ -57,7 +57,7 @@ class WineControllerTestSpringWebTest {
                 .jsonPath("$.metadata[0].codigo").isEqualTo("404")
                 .jsonPath("$.metadata[0].dato").isEqualTo("Could not consult wine id");
     }
-/*
+
     @Test
     @Order(3)
     @DisplayName("Prueba POST")
@@ -78,7 +78,7 @@ class WineControllerTestSpringWebTest {
 
     }
 
- */
+
 
     @Test
     @Order(4)
